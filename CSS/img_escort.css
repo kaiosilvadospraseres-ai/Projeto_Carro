@@ -1,12 +1,13 @@
 .img{
     width: 300px;
-    height: 150px;
-    margin-left: 800px;
+    height: 200px;
+    margin-left: 550px;
     border: 3px solid black;
     border-radius: 30px;
 }
 
 .video{
-    margin-left: 700px;
+    margin-left: 450px;
     width: 500px;
+    border-radius: 30px;
 }
