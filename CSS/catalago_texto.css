@@ -1,0 +1,64 @@
+body{
+    
+}
+
+.container{
+    display: flex;
+    margin: 5px;
+    margin-top: 20px;
+    max-width: 900px;
+    margin-left: 180px;
+    gap: 50px;
+}
+
+.container2{
+    display: flex;
+    margin: 5px;
+    max-width: 900px;
+    margin-left: 180px;
+    gap: 50px;
+    margin-top: 50px;
+    
+}
+
+.carro1{
+    background-color:aliceblue;
+    border: 4px solid black;
+    max-width: 500px;
+}
+
+.carro2{
+    background-color: aliceblue;
+     border: 4px solid black;
+     max-width: 500px;
+}
+
+.carro3{
+    background-color: aliceblue;
+     border: 4px solid black;
+     max-width: 500px;
+}
+
+.superior{
+    height: 80px;
+    background-color: gray;
+    border-radius: 60px;
+    border: 3px solid black;
+    
+}
+
+.inferior{
+    height: 80px;
+    background-color: gray;
+    margin-top: 15px;
+    border-radius: 60px;
+     border: 3px solid black;
+}
+
+.link{
+    background-color: red;
+    color: white;
+    text-decoration: none;
+    border-radius: 8px;
+}
+

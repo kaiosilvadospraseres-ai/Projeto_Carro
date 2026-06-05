@@ -1,0 +1,41 @@
+.texto{
+    margin-left: 500px;
+    margin-right: 500px;
+    text-align: center;
+    font-size: 20px;
+}
+
+.titulo{
+    margin-left: 750px;
+    margin-right: 600px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 60px;
+    color: rgb(230, 53, 53);
+}
+
+.titulo2{
+    margin-left: 700px;
+}
+
+.container{
+    display: inline-block;
+    margin-left: 500px;
+    margin-right: 500px;
+    margin: 0%;
+}
+
+.botao{
+    margin-left: 880px;
+}
+
+.principal{
+    margin-left: 830px;
+    margin-right: 600px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 60px;
+    color: rgb(230, 53, 53);
+}
+
+body{
+    border: 6px solid black;
+}
